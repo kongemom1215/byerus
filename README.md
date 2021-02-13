@@ -163,7 +163,7 @@
 ```
 
 ### 쿠폰 등록 페이지
-![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/72897088/107859523-663a5b80-6e7d-11eb-90da-24a6f5d9675d.gif)
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/72897088/107861174-532c8900-6e87-11eb-909a-508cb444d3e3.gif)
 ```
 - 전체회원/특정회원 선택해서 쿠폰 등록 
 - 특정회원인 경우 회원번호를 , 로 구분해서 입력
