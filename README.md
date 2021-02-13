@@ -13,7 +13,7 @@
 ![image](https://user-images.githubusercontent.com/72897088/107852846-388dec00-6e56-11eb-8f28-b0bd106c7181.png)
 
 ## 프로젝트 제공 기능
-1. 관리자 by 임주혜
+[1. 관리자 by 임주혜](#관리자-페이지)
   + 회원관리
     - 회원 정보 조회/수정/삭제/등록/검색
     - 회원 검색 - 회원번호/회원 이름/이메일 옵션 선택 후 검색값 입력
@@ -114,7 +114,7 @@
 ### 마이페이지
 ![image](https://user-images.githubusercontent.com/72897088/107858444-77806980-6e77-11eb-839b-f71845eb511e.png)
 
-## 관리자 페이지
+## 관리자 페이지 
 ### 로그인 > 메인
 ![image](https://user-images.githubusercontent.com/72897088/107858484-b0204300-6e77-11eb-91c0-c2db9625e03c.png)
 ```
