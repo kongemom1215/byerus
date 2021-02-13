@@ -134,7 +134,7 @@ _Bye-rus는 2020년에 등장한 COVID-19 바이러스 감염증에 예방하기
 
 ### 마이페이지
 ![image](https://user-images.githubusercontent.com/72897088/107858444-77806980-6e77-11eb-839b-f71845eb511e.png)
-
+***
 ## 관리자 페이지 
 ### 로그인 > 메인
 ![image](https://user-images.githubusercontent.com/72897088/107858484-b0204300-6e77-11eb-91c0-c2db9625e03c.png)
@@ -150,7 +150,7 @@ _Bye-rus는 2020년에 등장한 COVID-19 바이러스 감염증에 예방하기
 ```
 회원관리/상품관리/게시판관리/결제관리 로 나눠짐
 ```
-
+***
 ### 회원 관리 페이지
 ![image](https://user-images.githubusercontent.com/72897088/107858669-99c6b700-6e78-11eb-8447-dbd37772a328.png)
 ```
@@ -192,7 +192,7 @@ _Bye-rus는 2020년에 등장한 COVID-19 바이러스 감염증에 예방하기
 - 날짜선택은 Jquery UI datepicker 사용
 - 쿠폰 이미지 선택해서 등록
 ```
-
+***
 ### 상품 관리 페이지
 ![image](https://user-images.githubusercontent.com/72897088/107859624-f5e00a00-6e7d-11eb-9c8b-01f17b4b4ea0.png)
 ```
@@ -223,7 +223,7 @@ _Bye-rus는 2020년에 등장한 COVID-19 바이러스 감염증에 예방하기
 ```
 상품을 등록하는 페이지
 ```
-
+***
 ### 게시판 관리 페이지
 ![image](https://user-images.githubusercontent.com/72897088/107861487-693b4900-6e89-11eb-93b3-496b956a71ea.png)
 ```
@@ -250,7 +250,7 @@ _Bye-rus는 2020년에 등장한 COVID-19 바이러스 감염증에 예방하기
 글 정보와 이전 게시글, 다음 게시글 이동 버튼
 글 수정, 삭제 기능
 ```
-
+***
 #### 문의 게시판 관리 페이지
 ![image](https://user-images.githubusercontent.com/72897088/107861712-e1eed500-6e8a-11eb-8d1c-965febc009c3.png)
 ```
@@ -273,7 +273,7 @@ _Bye-rus는 2020년에 등장한 COVID-19 바이러스 감염증에 예방하기
 ```
 답변 기능 - 답변 등록, 수정, 삭제
 ```
-
+***
 #### 리뷰 게시판 관리 페이지
 ![image](https://user-images.githubusercontent.com/72897088/107861947-9c330c00-6e8c-11eb-8fd7-c4798a64a674.png)
 ```
@@ -291,7 +291,7 @@ _Bye-rus는 2020년에 등장한 COVID-19 바이러스 감염증에 예방하기
 리뷰 상세 글 조회
 답변 기능(문의 게시판과 동일)
 ```
-
+***
 ### 결제 관리 페이지
 ![image](https://user-images.githubusercontent.com/72897088/107862068-87a34380-6e8d-11eb-8f40-a0eeff750bf5.png)
 ```
