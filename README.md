@@ -1,6 +1,10 @@
 # 프로젝트 소개
 _Bye-rus는 2020년에 등장한 COVID-19 바이러스 감염증에 예방하기 위한 방역 용품을 판매하는 **쇼핑몰 사이트**입니다._
 
+> 개발 기간 : 2020.12.28~2021.01.22(26일)
+
+> 개발 인원 : 6명
+
 ## 목차
 [1. 역할](#역할)
 
@@ -346,5 +350,9 @@ GOOGLE CHART API를 이용
 ```
 
 ## 코드 위치
+![image](https://user-images.githubusercontent.com/72897088/107864364-df967600-6e9e-11eb-8e46-c03464de129b.png)
+![image](https://user-images.githubusercontent.com/72897088/107864369-ef15bf00-6e9e-11eb-85b5-26edb0c13072.png)
+![image](https://user-images.githubusercontent.com/72897088/107864381-f8069080-6e9e-11eb-8c02-7104c0061cef.png)
+![image](https://user-images.githubusercontent.com/72897088/107864385-fe950800-6e9e-11eb-9a97-5568f923e191.png)
 
 ## 주요기능 코드 설명
