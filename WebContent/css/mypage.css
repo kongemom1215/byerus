@@ -1,0 +1,65 @@
+@charset "UTF-8";
+   .mypagehead{
+      width: 900px;
+      /* margin-left: 350px; */
+      position: relative;
+      float: left;
+      background-color:white;
+      
+   }
+   .mypagepersonicon{
+      width: 180px;
+      float: left;
+      margin-left: 25px;
+      margin-top: 10px;
+   }
+
+   .down {
+      width: 900px;
+      /* margin-left: 350px; */
+      position: relative;
+      float: left;
+      background-color:white;
+   }
+   .mypagemainside {
+   float: left;
+   width: 10%;
+   margin-left: 10px;
+   width: 180px;
+   height: 40%;
+   
+   font-size: 18px;
+   font-color: black;
+   margin-left: 10px;
+   background-color: #B9FFFF;
+}
+
+   .mypageside {
+      margin-left: 10px;
+      float: left;
+      height: 30%;
+      width: 160px;
+   
+   }
+   div.mypageside:hover {
+      color:gray;
+   
+   }
+   .myorderview {
+   float: right;
+   margin-left: 10px;
+   width: 690px;
+   height: 365px;
+   }
+   .myorderviewdetail {
+   float: right;
+   margin-left: 10px;
+   width: 690px;
+   height: 365px;
+   }
+   .myorderviewdetail_price {
+   float: right;
+   margin-left: 10px;
+   width: 100px;
+   height: 365px;
+   }

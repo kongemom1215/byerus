@@ -1,0 +1,153 @@
+@charset "UTF-8";
+
+@import
+	url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap')
+	;
+
+@import
+	url('https://fonts.googleapis.com/css2?family=Jua&family=Nanum+Gothic&display=swap')
+	;
+
+@import url(//fonts.googleapis.com/earlyaccess/jejugothic.css);
+
+body {
+	font-family: 'Jeju Gothic', sans-serif;
+	margin: 0 auto;
+	height: 100vh;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+@media screen and (max-width:900px) {
+	hr {
+		width: 900px;
+	}
+}
+
+ul,li{list-style:none;}
+
+.slide{height:350px;overflow:hidden;}
+
+.slide ul{width:calc(100% * 3);display:flex;animation:slide 12s infinite;} /* slide를 12초동안 진행하며 무한반복 함 */
+
+.slide li{width:calc(100% / 3);height:300px;}
+
+ @keyframes slide {
+      0% {margin-left:0;} /* 0 ~ 10  : 정지 */
+      10% {margin-left:0;} /* 10 ~ 25 : 변이 */
+      25% {margin-left:-100%;} /* 25 ~ 35 : 정지 */
+      35% {margin-left:-100%;} /* 35 ~ 50 : 변이 */
+      50% {margin-left:-200%;}
+      60% {margin-left:-200%;}
+      75% {margin-left:-300%;}
+      85% {margin-left:-300%;}
+      100% {margin-left:0;}
+}
+    
+.main {
+	margin: 0 auto;
+	width: 900px;
+}
+
+.top_button {
+	float: right;
+	margin-left: 15px;
+}
+
+.nav_button {
+	float: left;
+	width: 300px;
+	text-align: center;
+}
+
+.search_box1 {
+	background-image: url('../img/search_bg_img_1.png');
+	display: table;
+	width: 900px;
+	height: 70px;
+	color: white;
+	font-size: 25px;
+	text-shadow: 0 0 5px black;
+}
+
+.search_box1_1 {
+	background-image: url('../img/search_bg_img_2.png');
+	display: table;
+	width: 900px;
+	height: 70px;
+}
+
+.search_box2 {
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.search_side {
+	position: relative;
+	left: 4.5px;
+	width: 20px;
+	height: 43px;
+}
+
+.search_text {
+	position: relative;
+	top: -17px;
+	background: url('../img/S_main.png');
+	background-size: 100%;
+	border: 0px;
+	width: 300px;
+	height: 41px;
+	outline: none;
+}
+
+.seacrh_button {
+	position: relative;
+	right: 4.5px;
+	background: url('../img/S_button.png');
+	background-size: 100%;
+	height: 43px;
+	width: 53px;
+	border: 0px;
+	outline: 0;
+	cursor: pointer;
+}
+
+.main_img {
+	height: 250px;
+	width: 250px;
+	margin-top: 15px;
+	margin-right: 22px;
+	margin-left: 22px;
+}
+
+.search_img {
+	height: 200px;
+	width: 200px;
+	margin: 10px;
+}
+
+.board_table1 {
+	border-top: 1px gray solid;
+	border-bottom: 1px gray solid;
+	border-spacing: 5px;
+	text-align: center;
+}
+
+.board_table2 {
+	border-top: 2px gray solid;
+	border-bottom: 2px gray solid;
+	border-spacing: 5px;
+	background-color: #CCCCCC;
+}
+
+.board_button {
+	border: 1px gray solid;
+	padding: 15px;
+	border-bottom: 0px;
+	padding-bottom: 0px;
+	padding-top: 8px;
+}

@@ -1,0 +1,105 @@
+@charset "UTF-8";
+	.down {
+		width: 900px;
+		/* margin-left: 350px; */
+		position: relative;
+		float: left;
+		background-color:white;
+	}
+	.mypagehead{
+		width: 900px;
+		/* margin-left: 350px; */
+		position: relative;
+		float: left;
+		background-color:white;
+		
+	}
+		.mypagemainside {
+		float: left;
+		width: 10%;
+		margin-left: 10px;
+		width: 180px;
+		height: 40%;
+		
+		font-size: 18px;
+		font-color: black;
+		margin-left: 10px;
+		background-color: #B9FFFF;
+}
+
+	.mypageside {
+		margin-left: 10px;
+		float: left;
+		height: 30%;
+		width: 160px;
+	
+	}
+	.userdelete{
+		width: 400px;
+		margin-left: 200px;
+		position: relative;
+		background-color:white;
+		float : left;
+	}
+	.input[type="password"]{
+		font-size: 18px;
+		margin-top: 10px;
+		border: 0;
+		outline: 0;
+		background-color: #B9FFFF; 
+		margin-right: 0.5px;
+	}
+	.input[type="text"]{
+		font-size: 18px;
+		margin-top: 10px;
+		border: 0;
+		outline: 0;
+		background-color: #B9FFFF; 
+		margin-right: 20px;
+	}
+	.input[type="submit"]{
+		font-size: 18px;
+		outline: 0;
+		background-color: white; 
+		margin-top: 10px;
+		margin-right: 5px;
+		margin-left: 2px;
+	}
+	.input[type="reset"]{
+		font-size: 18px;
+		border:3;
+		border-color: #14D3FF;
+		outline: 0;
+		background-color: white; 
+		margin-top: 10px;
+		margin-right: 5px;
+		margin-left: 2px;
+		margin-bottom: 10px;
+	}
+	table{
+		border: 1px solid #14D3FF; 
+	}
+	table.txc-table{
+		width:100%;
+		table-layout:fixed;
+	}
+	table tr td{
+		width:100%;
+	}
+	.button {
+    width:75px;
+    background-color: #14D3FF;
+    border: none;
+    color:#fff;
+    padding: 8px 0;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px;
+    cursor: pointer;
+	border-radius:10px;
+}
+	.button:hover {
+    background-color: blue;
+}

@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+@import
+	url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap')
+	;
+
+@import
+	url('https://fonts.googleapis.com/css2?family=Jua&family=Nanum+Gothic&display=swap')
+	;
+
+@import url(//fonts.googleapis.com/earlyaccess/jejugothic.css);
+
+body {
+	font-family: 'Jeju Gothic', sans-serif;
+}
+
+table {
+	width: 85%;
+	margin: 30px;
+}
+
+th {
+	font-weight: bold;
+	font-size: large;
+}
+
+tr {
+	font-size: medium;
+}

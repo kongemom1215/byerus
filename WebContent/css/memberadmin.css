@@ -1,0 +1,167 @@
+@charset "UTF-8";
+/* 사이드바 */
+#sidebar{
+	margin-top:30px;
+	width:250px;
+	height:400px;
+	float:left;
+	position:relative;
+}
+#img1{
+	width:150px; 
+	height:150px; 
+	margin-left:50px; 
+}
+.memberMenu{
+	text-align:center;
+	color:#00B9FF;
+	margin:0px;
+}
+.button{
+	vertical-align: middle;
+	border: 0;
+	outline: 0;
+	background-color: white;
+}
+.memberMenuButton{
+	margin-left:70px;
+	float:left;
+}
+/* 내용 */
+#content{
+	width:700px;
+	height:800px;
+	float:left;
+	position:relative;
+}
+/* 검색 */
+#search{
+	margin-top:30px;
+	margin-left:25px;
+	width:650px;
+	height:70px;
+	background-color:#d2d2d2;
+}
+#select{
+	display: inline-block;
+    margin-top: 20px;
+    margin-left:70px;
+}
+/* 검색 내용 */
+#search_content{
+	margin-left:25px;
+	width:650px;
+	height:650px;
+	background-color:#d2d2d2;
+}
+#search_content2{ /* memberInfo.jsp */
+	background-color:white;
+	display: inline-block;
+    margin-top: 25px;
+    margin-left:25px;
+    width:600px;
+    height:600px;
+}
+#search_table{
+	display: inline-block;
+    margin-top: 50px;
+    margin-left:40px;
+}
+#search_table2{
+	text-align:center;
+}
+
+table{
+	border: 1px solid rgb(255,255,255);
+	border-collapse:collapse;
+}
+th,td{
+	border: 1px solid rgb(255,255,255);
+	padding:10px;
+}
+th{
+	background-color:rgb(255, 255, 255);
+}
+td{
+	background-color:#F2F2F2;
+}
+a{
+	color:black;
+}
+
+a:visited {
+	color:black;
+}
+
+a:link{
+	color:black;
+}
+
+.button2 {
+	background-color:white;
+	display: inline-block;
+	outline: none;
+	cursor: pointer;
+	text-align: center;
+	text-decoration: none;
+	padding: .5em 2em .55em;
+	text-shadow: 0 1px 1px rgba(0, 0, 0, .3);
+	border-radius: .5em;
+	box-shadow: 0 1px 2px rgba(0, 0, 0, .2);
+	border:0;
+	
+}
+.button2:hover{
+	text-decoration: none; 
+	border:0;
+	background-color:black;
+	color:white;
+}
+.button2:active {
+	position: relative;
+	top: 1px;
+}
+
+/* 회원추가창 */
+#insert_content{
+	margin-top:30px;
+	margin-left:30px;
+	width:640px;
+	height:740px;
+	background-color:white;
+	border: 10px solid #d2d2d2;
+}
+#insert_content2{
+	vertical-align: middle;
+	margin-left:50px; 
+	background-color: white;
+}
+
+.memberMenu2{
+	text-align:center;
+}
+
+
+/* 쿠폰창 */
+#couponContent{
+	margin-top:30px;
+	margin-left:25px;
+	width:700px;
+	height:460px;
+	float:left;
+	position:relative;
+	background-color:#d2d2d2;
+}
+#couponContent2{
+	margin-top:30px;
+	margin-left:30px;
+	width:640px;
+	height:400px;
+	background-color:white;
+}
+#coupontable{
+	width:500px;
+	height:250px;
+	margin-left:110px;
+	margin-top:50px;
+}

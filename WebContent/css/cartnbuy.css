@@ -1,0 +1,123 @@
+@charset "UTF-8";
+	.aa{	
+		background: #B9FFFF;
+		height : 50px;
+		width : 900px;
+		margin-top: 20px;
+		border-radius: 10px;
+		z-index: 2
+	}
+	.bb{
+		background: #D8D8D8;
+		height: auto;
+		width: 900px;
+		margin-top: 20px;
+		z-index: 2;
+		
+	}.cc{
+		background: #A4A4A4;
+		height:150px;
+		width: 900px;
+	
+	}
+	
+	.step1{
+		width: 300px;
+		margin-left: 100px;
+		position: absolute;
+		margin-top: -10px;
+		z-index: 1;
+		
+	}.step2{
+		width: 300px; 
+		margin-left: 400px;
+		position: absolute;
+		margin-top: -10px;
+		z-index: 1;
+		
+	}.step3{
+		width: 300px;
+		margin-left: 700px;
+		position: absolute; 
+		margin-top: -10px;
+		z-index: 1;
+		
+	}.del{
+		float:left;
+		background-color: white;
+		border: 0px;
+		margin : 10px;
+		width : 170px;
+		height : 60px;
+		border-radius: 12px;
+	
+	}.buy{
+		float:right;
+		background-color: white;
+		border: 0px;
+		margin : 10px;
+		width : 170px;
+		height : 60px;
+		border-radius: 12px;
+	}.total{
+		
+	
+	}.result{
+		margin-left: 220px;
+		font-size: 20px;
+	}.input_info{
+		margin-right: 10px;
+	
+	
+	}.input_info{
+		margin: 9px 20px 5px 10px;
+	
+	
+	}.info_tr{
+		border-bottom: 1px solid gray;
+		height : 60px;
+		width:100px;
+	}.pay_way{
+		margin: 0px 80px 20px 110px;
+		width : 100px;
+		height : 40px;
+		border-radius: 12px;
+		background: #B9FFFF;
+	}.pay{
+		margin: 30px 140px 20px 120px;
+		width : 170px;
+		height : 60px;
+		border-radius: 12px;
+		
+	}.order{
+		margin-bottom: 50px;
+		margin-left: 150px;
+		background-color: #B9FFFF;
+		width : 500px;
+	}.cart_tb{
+		margin-bottom: 50px;
+		margin-left: 50px;
+		border-collapse: collapse;
+		width : 750px;
+		
+	
+	}.cart_tr{
+		border-bottom: 1px solid gray;
+		height : 60px;
+		width:100px;
+	
+	}.cart_td{
+		text-align: center;
+	
+	
+	}
+	
+	
+	#pay{ background-color: #00EBFF; }
+	#cancel{background-color:#BDBDBD; }
+	#checkdel{background-color: #BDBDBD;}
+	#checkbuy{background-color: #BDBDBD;}
+	#wholedel{background-color: #00EBFF;}
+	#wholebuy{background-color: #00EBFF;}
+	
+	

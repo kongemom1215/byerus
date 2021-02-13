@@ -1,0 +1,150 @@
+@charset "UTF-8";
+/* 사이드바 */
+#sidebar{
+	margin-top:30px;
+	width:250px;
+	height:400px;
+	float:left;
+	position:relative;
+}
+#img1{
+	width:150px; 
+	height:150px; 
+	margin-left:50px; 
+}
+.productMenu{
+	text-align:center;
+	color:#00B9FF;
+	margin:0px;
+}
+.productMenuButton{
+	margin-left:70px;
+	float:left;
+}
+.button{
+	vertical-align: middle;
+	border: 0;
+	outline: 0;
+	background-color: white;
+}
+
+/* 내용 */
+#content{
+	width:700px;
+	height:800px;
+	float:left;
+	position:relative;
+}
+/* 검색 */
+#search{
+	margin-top:30px;
+	margin-left:25px;
+	width:650px;
+	height:70px;
+	background-color:#d2d2d2;
+}
+#select{
+	display: inline-block;
+    margin-top: 20px;
+    margin-left:70px;
+}
+/* 검색내용 */
+#search_content{
+	margin-left:25px;
+	width:650px;
+	height:700px;
+	background-color:#d2d2d2;
+}
+#search_table{
+	display: inline-block;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+#img2{ /* 상품이미지 */
+	width:100px; 
+	height:100px; 
+}
+#img3{ /* 상세 상품 이미지 */
+	width:200px; 
+	height:200px; 
+}
+table{
+	width: 630px;
+	border: 1px solid rgb(255,255,255);
+	border-collapse:collapse;
+}
+th,td{
+	border: 1px solid rgb(255,255,255);
+	padding:10px;
+}
+th{
+	background-color:rgb(255, 255, 255);
+}
+td{
+	background-color:#F2F2F2;
+}
+a{
+	color:black;
+	text-decoration:none;
+}
+a:visited {
+	color:black;
+}
+a:link{
+	color:black;
+}
+.button2 {
+	vertical-align:center;
+	background-color:white;
+	display: inline-block;
+	outline: none;
+	cursor: pointer;
+	text-align: center;
+	text-decoration: none;
+	padding: .5em 2em .55em;
+	text-shadow: 0 1px 1px rgba(0, 0, 0, .3);
+	border-radius: .5em;
+	box-shadow: 0 1px 2px rgba(0, 0, 0, .2);
+	border:0;
+	
+}
+.button2:hover{
+	text-decoration: none; 
+	border:0;
+	background-color:black;
+	color:white;
+}
+.button2:active {
+	position: relative;
+	top: 1px;
+}
+
+.download{
+	display:inline-block;
+    width:50px;
+    line-height:30px;
+    text-align:center;
+    background-color:white;
+    border: 1px solid black;
+    color:#fff;
+    font-size: 12px;
+    margin-left:10px;
+}
+.download:hover{
+	cursor: pointer;
+}
+.productMenu2{
+	text-align:center;
+}
+
+#insert_content{
+	margin-top:30px;
+	margin-left:30px;
+	width:590px;
+	height:690px;
+	background-color:white;
+}
+#insert_content2{
+	vertical-align: middle;
+	margin-left:40px; 
+}

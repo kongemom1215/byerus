@@ -1,0 +1,24 @@
+[git 최초]
+
+git config --global user.name "github 에 등록한 이름"
+git config --global user.email 'github 에 등록한 email'
+git inut
+
+[git 업로드]
+
+git remote add origin https://github.com/kongemom1215/project2zo.git
+
+git add .
+git status
+git commit -m "commit 메세지"
+git remote add 'git주소'
+git checkout '브랜치 이름'
+git push origin '브랜치 이름'
+
+[error 발생]
+
+error: pathspec 'new-branch' did not match any file(s) known to git
+
+git remote update
+git fetch
+git checkout new-branch

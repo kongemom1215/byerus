@@ -1,0 +1,114 @@
+@charset "UTF-8";
+
+.loginarea {
+   margin-top: 80px;
+   margin-left: 55px;
+   width: 790px;
+   height: 500px;
+   text-align: center;
+}
+
+.memberlogin {
+   width: 500px;
+   float: left;
+}
+
+.notamember {
+   margin-top: 135px;
+   float: right;
+   text-align: center;
+   width: 290px;
+   text-align: center;
+}
+
+table {
+   width: 35%;
+   height: 100px;
+   margin: auto;
+   font-weight: bolder;
+}
+
+.findmail {
+   width: 150px;
+   float: left;
+   margin-left: 100px;
+}
+
+.findpw {
+   width: 150px;
+   float: left;
+}
+
+#login {
+   text-align: center;
+   width: 300px;
+   overflow: hidden;
+   position: absolute;
+   right: 50%;
+   top: 20%;
+}
+
+.semail {
+   width: auto;
+   height: auto;
+   background-color: #B9FFFF;
+   border: 0px;
+   font-size: 30px;
+   outline: none;
+}
+
+.spwd {
+   width: auto;
+   height: auto;
+   background-color: #B9FFFF;
+   border: 0px;
+   font-size: 30px;
+   outline: none;
+}
+
+.join {
+   background-color: #0064FF;
+   display: inline-block;
+   outline: none;
+   cursor: pointer;
+   text-align: center;
+   text-decoration: none;
+   padding: .5em 2em .55em;
+   text-shadow: 0 1px 1px rgba(0, 0, 0, .3);
+   color: white;
+   border-radius: .5em;
+   box-shadow: 0 1px 2px rgba(0, 0, 0, .2);
+   border: 0;
+}
+
+.join:hover {
+   background-color: #00D7FF;
+   color: #0000CD;
+}
+
+.Login {
+   background-color: #0064FF;
+   display: inline-block;
+   outline: none;
+   cursor: pointer;
+   text-align: center;
+   text-decoration: none;
+   padding: .5em 2em .55em;
+   text-shadow: 0 1px 1px rgba(0, 0, 0, .3);
+   color: white;
+   width: 316px;
+   border-radius: .5em;
+   box-shadow: 0 1px 2px rgba(0, 0, 0, .2);
+   border: 0;
+}
+
+.Login:hover {
+   background-color: #00D7FF;
+   color: #0000CD;
+}
+
+::placeholder {
+   text-align: left;
+   font-size: 0.5em;
+   font-weight: 100;
+}

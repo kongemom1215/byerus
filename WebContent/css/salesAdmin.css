@@ -1,0 +1,78 @@
+@charset "UTF-8";
+#sidebar{
+	margin-top:30px;
+	width:250px;
+	height:400px;
+	float:left;
+	position:relative;
+}
+#img1{
+	width:150px; 
+	height:150px; 
+	margin-left:50px; 
+}
+.memberMenuButton{
+	margin-left:70px;
+	float:left;
+}
+#content{
+	width:700px;
+	height:800px;
+	float:left;
+	position:relative;
+}
+.memberMenu{
+	text-align:center;
+	color:#00B9FF;
+	margin:0px;
+}
+.memberMenu2{
+	text-align:center;
+}
+#content{
+	margin-top:30px;
+	margin-left:25px;
+	width:700px;
+	height:500px;
+	float:left;
+	position:relative;
+	background-color:#d2d2d2;
+}
+.button{
+	vertical-align: middle;
+	border: 0;
+	outline: 0;
+	background-color: white;
+}
+#select{
+	display: inline-block;
+    margin-top: 20px;
+    margin-left:50px;
+}
+
+#chart_div{
+	margin-left: 50px;
+}
+table{
+	width:600px;
+	background-color: white;
+	border-top: 3px solid #d2d2d2;
+	border-collapse: collapse;
+}
+td{
+	border-bottom : 3px solid #d2d2d2;
+	padding:10px;
+	text-align: center;
+}
+a{
+	color:black;
+}
+a:visited {
+	color:black;
+}
+a:link{
+	color:black;
+}
+#adminMember{
+	width:1200px;
+}
