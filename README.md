@@ -156,7 +156,8 @@
 ```
 회원가입시 필요한 정보 입력
 ```
-![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/72897088/107859425-acdb8600-6e7c-11eb-8623-403a19af5ee2.gif)
+![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/72897088/107861230-dbab2980-6e87-11eb-800a-dbbdfae80c8d.gif)
+![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/72897088/107861232-de0d8380-6e87-11eb-9062-6e38e3da7e4b.gif)
 ```
 - 이메일 입력 후 중복체크 확인 기능
 - 다음 우편주소 API를 이용한 주소검색
