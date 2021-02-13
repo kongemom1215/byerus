@@ -117,13 +117,36 @@
 ## 관리자 페이지
 ### 로그인 > 메인
 ![image](https://user-images.githubusercontent.com/72897088/107858484-b0204300-6e77-11eb-91c0-c2db9625e03c.png)
+```
 등록된 관리자 계정으로 로그인
+```
 ![image](https://user-images.githubusercontent.com/72897088/107858503-ca5a2100-6e77-11eb-949f-b89cf06a7c63.png)
+```
 상단의 관리자페이지로 이동할 수 있는 메뉴 오픈
-
+```
 ### 관리자 페이지
 ![image](https://user-images.githubusercontent.com/72897088/107858521-e493ff00-6e77-11eb-8b7a-03ece4d7f857.png)
+```
+회원관리/상품관리/게시판관리/결제관리 로 나눠짐
+```
 
+### 회원 관리 페이지
+![image](https://user-images.githubusercontent.com/72897088/107858669-99c6b700-6e78-11eb-8447-dbd37772a328.png)
+```
+회원 조회 페이지
+> 전체 회원을 조회 기능, 가입한 회원 수 확인 기능, 페이징 기능
+> 회원 번호, 회원 이름, 이메일을 선택해서 검색하여 회원 정보를 조회할 수 있다
+```
 
-
-
+#### 회원 조회 페이지
+![image](https://user-images.githubusercontent.com/72897088/107858769-37ba8180-6e79-11eb-97e2-ad4328781307.png)
+```
+> 회원 상세 정보 조회가능
+> 새 창으로 해당 회원의 쿠폰 조회 가능
+> 회원 정보 수정과 삭제 기능
+```
+#### 회원 검색 기능
+![image](https://user-images.githubusercontent.com/72897088/107858847-b0214280-6e79-11eb-9fb9-7db90b27667f.png)
+```
+'2'를 검색하면 회원 번호에 2가 포함된 회원들 목록을 조회할 수 있다
+```
