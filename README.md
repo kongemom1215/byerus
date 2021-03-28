@@ -354,4 +354,3 @@ GOOGLE CHART API를 이용
 ![image](https://user-images.githubusercontent.com/72897088/107864381-f8069080-6e9e-11eb-8c02-7104c0061cef.png)
 ![image](https://user-images.githubusercontent.com/72897088/107864385-fe950800-6e9e-11eb-9a97-5568f923e191.png)
 
-## 주요기능 코드 설명
