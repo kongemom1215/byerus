@@ -1,4 +1,4 @@
-# 📑프로젝트 소개
+# 📑프로젝트 소개 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkongemom1215%2Fbyerus&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 _Bye-rus는 2020년에 등장한 COVID-19 바이러스 감염증에 예방하기 위한 방역 용품을 판매하는 **쇼핑몰 사이트**입니다._
 
 > 개발 기간 : 2020.12.28~2021.01.22(26일)
